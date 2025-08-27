@@ -11,8 +11,8 @@ This project directly addresses the challenge of "Explainability and Traceabilit
 - A textual description.
 - A visual "saliency map" highlighting which pixels influenced the model's predictions.
 - A complete audit log tracing the process from input to output.  
-- Built for efficiency on a MacBook M1 Pro, it uses lightweight, pre-trained PyTorch models.
-- This project showcases practical skills in Python, PyTorch, CV, NLP, and model interpretability.
+- Built for efficiency, and it uses lightweight, pre-trained PyTorch models.
+- This project showcases PyTorch, CV, NLP, and model interpretability.
 
 ## Features
 
